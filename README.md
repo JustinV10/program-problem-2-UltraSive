@@ -1,5 +1,5 @@
 # Take_In_Data
-Program Problem 2
+Program Problem #2
 
 ## Program Problem 2: Take_in_Data
 
